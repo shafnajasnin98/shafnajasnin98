@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @shafnajasnin98
- I'm a Software Developer & a keen learner who is passionate about contributing to open-source projects, developing Android & Web applications, creating technology to elevate people, and building community
+- 💻 Fullstack Developer | Android & Flutter app creator
 
-- 👀 I’m interested in build new things fir android and web.
-- 🌱 I’m currently learning AI And ML...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🤖 Exploring AI & Machine Learning to build smarter project
+
+🔭 Currently learning ML algorithms, data preprocessing, and model deployment
+
+🌱 Expanding skills in Python, AI /ML, TensorFlow, and Flutter integration
+
+💬 Ask me about app development, python , and backend/frontend technologies
+
+⚡ Fun fact: Always curious to blend creativity with technology!
+
+
 
 <!---
 shafnajasnin98/shafnajasnin98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
