@@ -1,4 +1,5 @@
 💻 Full-Stack Mobile App Developer | Flutter Specialist
+
 📱 Building, deploying & scaling production-ready apps on the Google Play Store
 
 🤖 Creating AI-integrated mobile applications that blend smart automation with great UX
