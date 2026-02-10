@@ -1,14 +1,15 @@
-- 💻 Fullstack Developer | Android & Flutter app creator
+💻 Full-Stack Mobile App Developer | Flutter Specialist
+📱 Building, deploying & scaling production-ready apps on the Google Play Store
 
-🤖 Exploring AI & Machine Learning to build smarter project
+🤖 Creating AI-integrated mobile applications that blend smart automation with great UX
 
-🔭 Currently learning ML algorithms, data preprocessing, and model deployment
+🔭 Experienced in end-to-end app development — from UI/UX to backend, APIs, and cloud deployment
 
-🌱 Expanding skills in Python, AI /ML, TensorFlow, and Flutter integration
+🌱 Skilled in Flutter, Python, Backend Development, AI/ML integration, and production workflows
 
-💬 Ask me about app development, python , and backend/frontend technologies
+💬Open to freelance and contract work delivering Flutter apps, full-stack development, deployment, and AI-powered functionality
 
-⚡ Fun fact: Always curious to blend creativity with technology!
+⚡ Fun fact: I love blending creativity with technology to build apps that actually make an impact
 
 
 
