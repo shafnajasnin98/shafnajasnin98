@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shafna Jasnin (Jasni) 👋</h1>
+<h1 align="center">Hi, I'm Shafna Jasnin 👋</h1>
 
 <p align="center">
   <b>Flutter Engineer · Full Stack Mobile Developer · AI App Developer · AI Enthusiast</b><br/>
