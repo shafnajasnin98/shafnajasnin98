@@ -14,7 +14,7 @@
   </a>
   <img src="https://img.shields.io/badge/GDG_Member-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -100,19 +100,13 @@ A full-featured point-of-sale system supporting bilingual UI, WhatsApp receipt s
   🚀 <b>Finora Expense</b><br/>
   Live on Google Play Store<br/><br/>
 
-  📌 Built with Flutter<br/>
+  📌 Built with Flutter,Firebase,Hive<br/>
   ⚙️ Features: Expense Tracking • Bookkeeping • Financial Reports • Inventory Management<br/>
   🚀 Production-ready app designed for real-world financial management<br/><br/>
 
   <a href="https://play.google.com/store/apps/details?id=com.ladydeveloper.finoraexpense">
     <img src="https://img.shields.io/badge/Download-Google_Play-green?style=for-the-badge&logo=google-play" />
   </a>
-</p>
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shafnajasnin98&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafnajasnin98&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
