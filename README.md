@@ -14,7 +14,20 @@
   </a>
   <img src="https://img.shields.io/badge/GDG_Member-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+<h3 align="center">📱 Featured App</h3>
 
+<p align="center">
+  🚀 <b>Finora Expense</b><br/>
+  Live on Google Play Store<br/><br/>
+
+  📌 Built with Flutter<br/>
+  ⚙️ Features: Expense Tracking • Bookkeeping • Financial Reports • Inventory Management<br/>
+  🚀 Production-ready app designed for real-world financial management<br/><br/>
+
+  <a href="https://play.google.com/store/apps/details?id=com.ladydeveloper.finoraexpense">
+    <img src="https://img.shields.io/badge/Download-Google_Play-green?style=for-the-badge&logo=google-play" />
+  </a>
+</p>
 ---
 
 ## 🚀 About Me
