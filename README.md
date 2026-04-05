@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shafna Jasnin 👋</h1>
 
 <p align="center">
-  <b>Flutter Engineer · Full Stack Mobile Developer · AI App Developer · AI Enthusiast</b><br/>
+  <b>Flutter Engineer · Shipping Production-Ready Apps . Full Stack Mobile Developer · AI Enthusiast</b><br/>
   📍 Dubai, UAE
 </p>
 
