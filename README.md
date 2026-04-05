@@ -92,7 +92,7 @@ A full-featured point-of-sale system supporting bilingual UI, WhatsApp receipt s
 - ✅ **Published apps** on Google Play Store
 - 🤝 **GDG Dubai Member** — active in DevFest, Build with AI, and community events
 - 🧠 **AI-first development** — integrating LLMs (Gemini, Claude) into mobile UX
-- 🌍 **UAE market expertise** — bilingual app development (Arabic / English)
+- 🌍 **Interested in UAE-focused Apps** — bilingual app development (Arabic / English)
 
 ---
 
